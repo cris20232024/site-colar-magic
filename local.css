@@ -1,0 +1,41 @@
+* {
+    font-family: 'Nunito', sans-serif;
+font-family: 'Nunito Sans', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Work Sans', sans-serif;
+
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+
+}
+
+body {
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.menu a {
+    transition: 1s all;
+        padding: 10px;
+        background-color: transparent;
+        text-decoration: none;
+        text-decoration-color: transparent;
+        color: white;
+}
+
+.menu a:hover {
+    transition: 1s all;
+    text-decoration: underline;
+    text-decoration-thickness: 8px;
+    text-decoration-color: green;
+    color: green;
+}
+
+.local {
+    margin-top: 650px;
+    margin-left: 863px;
+}
+

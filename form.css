@@ -1,0 +1,95 @@
+* {
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.nome {
+    transition: 1s all;
+    padding: 1px;
+    margin-top: 15px;
+    margin-left: 5px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    margin-bottom: 10px;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.email {
+    transition: 1s all;
+    padding: 1px;
+    margin-top: 15px;
+    margin-left: 5px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    margin-bottom: 10px;
+}
+
+.telefone {
+    transition: 1s all;
+    padding: 1px;
+    margin-top: 15px;
+    margin-left: 5px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    margin-bottom: 10px;
+}
+
+.botao {
+    transition: 1s all;
+    padding: 10px;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+
+form {
+    margin-left: 400px;
+    margin-top: 60px;
+}
+
+
+
+.btn {
+    width: 1271px;
+    height: 50px;
+    background-image: url(img/divbackground.avif);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 0.8999;
+} 
+
+.btn:hover {
+    transition: 2s all;
+}
+
+.btn a {
+    transition: 1s all;
+    text-decoration: none;
+    text-decoration-color: rgba(89, 133, 24, 0);
+    color: white;
+    padding: 10px;
+    background-color: transparent;
+}
+
+.btn a:hover {
+    transition: 1.6s all;
+    text-decoration-line: underline;
+    text-decoration-color: greenyellow;
+    text-decoration-thickness: 8px;
+    color: rgb(119, 183, 15);
+}
+

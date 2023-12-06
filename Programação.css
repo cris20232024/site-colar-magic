@@ -1,0 +1,306 @@
+* {
+    font-family: 'Nunito', sans-serif;
+font-family: 'Nunito Sans', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Work Sans', sans-serif;
+
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+
+} /* * = Tudo na página relacionado ao CSS*/
+
+body {
+    background-color: greenyellow;
+}
+
+.btn {
+    width: 1271px;
+    height: 50px;
+    background-image: url(img/divbackground.avif);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 0.8999;
+} 
+
+.btn:hover {
+    transition: 2s all;
+}
+
+.btn a {
+    transition: 1s all;
+    text-decoration: none;
+    text-decoration-color: rgba(89, 133, 24, 0);
+    color: white;
+    padding: 10px;
+    background-color: transparent;
+}
+
+.btn a:hover {
+    transition: 1.6s all;
+    text-decoration-line: underline;
+    text-decoration-color: greenyellow;
+    text-decoration-thickness: 8px;
+    color: rgb(119, 183, 15);
+}
+
+
+
+
+.apresentation {
+    width: 1247px;
+    height: 150px;
+    background-color: green;
+    background-image: url(../img/fundo\ verde.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -5px;
+}
+
+
+
+.nd {
+    transition: 1s all;
+    width: 100px;
+    height: 100px;
+    margin-left: 675px;
+    margin-top: 75px
+}
+
+.eb {
+    color: white;
+    margin-left: 250px;
+}
+
+.ebdbe {
+    background-color: rgb(133, 201, 30);
+    width: 1247px;
+    height: 150px;
+    margin-top: 0px;
+    
+}
+
+.hrr {
+    color: white;
+    margin-left: 100px;
+
+}
+
+.debaen {
+    color: white;
+    text-align: center;
+}
+
+.erbe {
+    color: white;
+    margin-left: 200px;
+}
+
+.intervalo {
+    text-align: center;
+}
+
+.tet {
+    width: 1247px;
+    height: 150px;
+    background-image: url(../img/fundo\ verde.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.tet h1 {
+    color: white;
+    text-align: center;
+}
+
+.hor {
+    color: white;
+    text-align: center;
+}
+
+.isq {
+    color: white;
+    text-align: center;
+}
+
+.nsp {
+    width: 1247px;
+    height: 150px;
+    background-color: greenyellow;
+}
+
+.hora {
+    color: white;
+    margin-left: 150px;
+}
+
+.npsj {
+    color: white;
+    margin-left: 250px;
+}
+
+.isqu {
+    color: white;
+    margin-left: 325px;
+}
+
+.data {
+    text-align: center;
+    margin-top: 35px;
+}
+
+.apsf {
+    width: 1247px;
+    height: 150px;
+    background-color: rgb(101, 168, 0);
+}
+
+.aopesf {
+    color: white;
+    margin-left: 130px;
+}
+
+.horar {
+    color: white;
+    margin-left: 100px;
+}
+
+.erico {
+    color: white;
+    margin-left: 410px;
+}
+
+.pdpea {
+    width: 1247px;
+    height: 150px;
+    background-image: url(../img/fundo\ verde.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+
+.hoo {
+    margin-left: 50px;
+}
+
+.pdpea p {
+    color: white;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.cf {
+    margin-left: 75px;
+ 
+}
+
+.cfname {
+    margin-left: 350px;
+    text-align: center;
+    margin-right: 300px
+}
+
+.ddtnc {
+    width: 1247px;
+    height: 150px;
+    background-color: rgb(125, 206, 2);
+}
+
+.ddtnc p {
+    color: white;
+    text-align: center;
+}
+
+.ddtnct {
+    margin-left: 75px;
+}
+
+.isqe {
+    text-align: center;
+}
+
+.dem {
+    width: 1247px;
+    height: 150px;
+    background-image: url(../img/fundo\ verde.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.dem p {
+    color: white;
+    text-align: center;
+}
+
+.demt {
+    margin-left: 75px;
+    text-align: center;
+    margin-right: 75px;
+}
+
+.cfnome {
+    text-align: center;
+}
+
+.dogimg {
+    background-image: url(img/fundo\ verde.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 263px;
+    
+}
+
+.imgdog {
+    margin-left: 300px;
+}
+
+.finaltext {
+    height: 250px;
+    background-color: rgb(133, 201, 30);
+}
+
+.finaltext h2 {
+    color: white;
+    text-align: center;
+}
+
+.inicioimg {
+   background-position: center center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 250px;
+}
+
+.inicioimg img {
+    width: 1260px;
+    height: 535px;
+}
+
+.inicioimg h1 {
+    color: hitesmoke ;
+    margin-top: -250px;  
+    text-align: center;  
+    margin-right: 100px;
+}
+
+.magne {
+    color: black;
+    text-decoration: underline;
+    text-decoration-thickness: 4px;
+}
+
+.container {
+    margin-top: 300px;
+} 
+
+.cfmep {
+    text-align: center;
+    color: white;
+}
